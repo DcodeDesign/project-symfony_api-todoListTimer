@@ -29,3 +29,8 @@ services:
 
     # add more service definitions when explicit configuration is needed
     # please note that last definitions always *replace* previous ones
+
+    task.search_filter:
+        parent: 'api_platform.doctrine.orm.search_filter'
+        arguments: [ { 'name': 'partial' } ]
+        tags: ['api_platform.filter']

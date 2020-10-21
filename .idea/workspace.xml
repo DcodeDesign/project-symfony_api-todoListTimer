@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b753265-72e3-4b23-852c-50fd2f19693d" name="Default Changelist" comment="" />
+    <list default="true" id="4b753265-72e3-4b23-852c-50fd2f19693d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Tasks.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Tasks.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/TasksRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/TasksRepository.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -17,6 +22,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -111,6 +119,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1j5X0uh3bgk7KVCbqLyJe7VNOJT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -130,7 +139,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603094709695</updated>
-      <workItem from="1603094714021" duration="4384000" />
+      <workItem from="1603094714021" duration="4434000" />
+      <workItem from="1603183835483" duration="608000" />
+      <workItem from="1603207744884" duration="268000" />
+      <workItem from="1603264326947" duration="6401000" />
     </task>
     <servers />
   </component>
@@ -142,5 +154,13 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1151" y="439" key="#Composer/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603094759359" />
+    <state x="-1118" y="396" key="Github.ShareDialog" timestamp="1603124135528">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1118" y="396" key="Github.ShareDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603124135528" />
+    <state x="-1237" y="263" key="Github.UntrackedFilesDialog" timestamp="1603124146999">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1237" y="263" key="Github.UntrackedFilesDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603124146999" />
   </component>
 </project>
